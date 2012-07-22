@@ -4,6 +4,10 @@
   "dependencies": {
     "tako": "0.3.0",
     "rewriter": "0.0.10",
-    "logref": "0.2.1"
+    "logref": "0.2.1",
+    "optimist": "0.3.4",
+    "request": "*",
+    "couch": "*",
+    "couchapp": "*"
   }
 }
